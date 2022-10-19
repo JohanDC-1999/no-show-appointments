@@ -1,2 +1,3 @@
-# no-show-appointments
+# No-show appointments
 Data analysis performed on the no-show appointments dataset.
+
